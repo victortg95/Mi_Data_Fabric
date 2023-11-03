@@ -1,0 +1,23 @@
+
+    {
+        "id": {
+            "Technical_Name": "id",
+            "Business_Meaning": "ID del usuario",
+            "level": ["PI","SPI"]
+        },
+        "card_number": {
+            "Technical_Name": "card_number",
+            "Business_Meaning": "Numero de tarjeta",
+            "level": "SPI"
+        },
+        "card_type": {
+            "Technical_Name": "card_type",
+            "Business_Meaning": "Metodo de pago",
+            "level": "SPI"
+        },
+        "monthly_payment": {
+            "Technical_Name": "monthly_payment",
+            "Business_Meaning": "Mensualidad",
+            "level": "PI"
+        }
+    }

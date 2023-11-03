@@ -1,0 +1,33 @@
+
+    {
+        "id": {
+            "Technical_Name": "id",
+            "Business_Meaning": "ID del usuario",
+            "level": ["PI","SPI"]
+        },
+        "first_name": {
+            "Technical_Name": "first_name",
+            "Business_Meaning": "Nombre del usuario",
+            "level": "PI"
+        },
+        "last_name": {
+            "Technical_Name": "last_name",
+            "Business_Meaning": "Apellido del usuario",
+            "level": "PI"
+        },
+        "email": {
+            "Technical_Name": "email",
+            "Business_Meaning": "Correo del usuario",
+            "level": "SPI"
+        },
+        "gender": {
+            "Technical_Name": "gender",
+            "Business_Meaning": "Genero del usuario",
+            "level": "SPI"
+        },
+        "ip_address": {
+            "Technical_Name": "ip_address",
+            "Business_Meaning": "Direccion IP del usuario",
+            "level": "PI"
+        }
+    }

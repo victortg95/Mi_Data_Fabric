@@ -1,0 +1,20 @@
+[
+    {
+    "golden_db1": {
+        "original_name" : "db1",
+        "golden_field1" : "id_user",
+        "golden_field2" : "first_name",
+        "golden_field3" : "last_name",
+        "golden_field4" : "email",
+        "golden_field5" : "gender",
+        "golden_field6" : "ip_address"
+    },
+    "golden_db2": {
+        "original_name" : "db2",
+        "golden_field1" : "id_payment",
+        "golden_field2" : "card_number",
+        "golden_field3" : "card_type",
+        "golden_field4" : "monthly_payment"
+    }
+    }
+]

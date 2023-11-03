@@ -1,0 +1,460 @@
+{
+    "Laura": {
+        "activities": [
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 01:21:43"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 01:21:56",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "Juan": {
+        "activities": [
+            {
+                "action": "loggeo_no_exitoso",
+                "timestamp": "2023/11/03 01:23:22"
+            }
+        ]
+    },
+    "Francisco": {
+        "activities": [
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 01:24:02"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 01:24:13",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 01:24:41"
+            },
+            {
+                "action": "request_no_valido",
+                "timestamp": "2023/11/03 01:24:48",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "koala"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 01:45:29"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 01:48:10",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id",
+                            "email",
+                            "gender"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id",
+                            "card_number",
+                            "card_type"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 01:55:08"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 01:55:53",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id",
+                            "gender",
+                            "email"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id",
+                            "card_number",
+                            "card_type"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 01:56:16"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 01:56:23",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:14:58"
+            },
+            {
+                "action": "request_no_valido",
+                "timestamp": "2023/11/03 02:15:09",
+                "request": {
+                    "df1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "df2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:16:05"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:16:12",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:16:41"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:16:49",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:17:24"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:17:28",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:26:42"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:26:53",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:34:34"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:34:41",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    },
+                    "db2": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:42:20"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:42:34",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:44:47",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 02:54:15"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:54:24",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:55:30",
+                "request": {}
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:55:44",
+                "request": {}
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 02:56:38",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:00:57"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:01:03",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:01:26",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:01:58"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:01:59",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:04:26"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:04:27",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:05:16"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:05:19",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:06:16"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:06:17",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:06:52"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:06:58",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:08:42"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:08:43",
+                "request": {}
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:09:03",
+                "request": {}
+            },
+            {
+                "action": "loggeo_exitoso",
+                "timestamp": "2023/11/03 03:13:07"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:13:08",
+                "request": {}
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:13:29",
+                "request": {}
+            },
+            {
+                "action": "logged_in",
+                "timestamp": "2023/11/03 03:16:14"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:16:33",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id",
+                            "email",
+                            "gender"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "logged_out",
+                "timestamp": "2023/11/03 03:16:42"
+            },
+            {
+                "action": "logged_in",
+                "timestamp": "2023/11/03 03:18:35"
+            },
+            {
+                "action": "request_exitoso",
+                "timestamp": "2023/11/03 03:18:48",
+                "request": {
+                    "db1": {
+                        "campos": [
+                            "id",
+                            "gender",
+                            "email"
+                        ]
+                    }
+                }
+            },
+            {
+                "action": "logged_out",
+                "timestamp": "2023/11/03 03:18:54"
+            }
+        ]
+    },
+    "Carlos": {
+        "activities": [
+            {
+                "action": "loggeo_no_exitoso",
+                "timestamp": "2023/11/03 01:44:57"
+            }
+        ]
+    },
+    "d": {
+        "activities": [
+            {
+                "action": "loggeo_no_exitoso",
+                "timestamp": "2023/11/03 01:54:52"
+            }
+        ]
+    },
+    "db1": {
+        "activities": [
+            {
+                "action": "loggeo_no_exitoso",
+                "timestamp": "2023/11/03 01:56:10"
+            }
+        ]
+    }
+}
